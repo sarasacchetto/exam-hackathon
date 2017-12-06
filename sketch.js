@@ -12,7 +12,7 @@ var luciList=[
 
 
 function preload(){
-    myImg=loadImage("./assets/oggetti.png");
+    myImg=loadImage("/assets/oggetti.png");
     
 }
 
